@@ -1,5 +1,5 @@
 ## About this repository
-This is repository to store comments for my blog site, based on Utterances - use GitHub issues for blog comments, wiki pages and more!
+This is repository to store comments for <a href="https://meokisama.github.io/blog">my blog site</a>, based on Utterances - use GitHub issues for blog comments, wiki pages and more!
 ## And what the hell is ```Utterances```
 ### utterances 🔮
 
